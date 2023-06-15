@@ -1,6 +1,6 @@
 import React from "react";
 import "./Hero.css";
-import Background from "../assets/background-video.mov";
+import Background from "../assets/background-video.mp4";
 import Logo from "../assets/logo.png";
 import { RxDoubleArrowDown } from "react-icons/rx";
 import {FiBookOpen} from "react-icons/fi";
